@@ -1,2 +1,2 @@
 # assignment1
-DC assignment
+DC assignments are given here
